@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Senac.Exercicio.Api.props" />
+</Project>
